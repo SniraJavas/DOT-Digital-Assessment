@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/InterviewTests - vs/.vs/InterviewTests/v16
+/InterviewTests - vs/InterviewTests/bin/Debug
+/InterviewTests - vs/InterviewTests/obj/Debug
+/InterviewTests - vs/packages/NUnit.3.12.0
+/InterviewTests - vs/Utilities/bin/Debug
+/InterviewTests - vs/Utilities/obj/Debug
+/Utilities/packages/NUnit.3.12.0
+/Utilities/.vs
+/Utilities/.cr/personal/FavoritesList
+/Utilities/Utilities/obj/Debug
+/Utilities/Utilities/bin/Debug
+/Utilities/UtilitiesTests/obj/Debug
+/Utilities/UtilitiesTests/bin/Debug
+/Utilities/UtilitiesTests/.vs/UtilitiesTests/v16
+/Utilities/Utilities/obj/Release
+/Utilities/UtilitiesTests/obj/Release
+/Utilities/UitlitiesTestsMSAlternative/bin/Debug/netcoreapp3.1
+/Utilities/UitlitiesTestsMSAlternative/obj
